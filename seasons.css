@@ -1,0 +1,50 @@
+h1 {
+    color: red;
+}
+
+.hlavni-seznam {
+    list-style-type: square;
+    border: 3px solid rgb(70, 37, 187);  
+}
+
+.ramek{
+    border: 3px solid rgb(70, 37, 187);  
+
+}
+
+.prvni-seznam {
+    list-style-image: url(winter_16.png);
+    border: 3px solid rgb(70, 37, 187);  
+    
+}
+
+.druhy-seznam {
+    list-style-image: url(spring_16.png);
+    border: 3px solid rgb(70, 37, 187);  
+}
+
+.treti-seznam {
+    list-style-image: url(summer_16.png);
+}
+
+.ctverty-seznam {
+    list-style-image: url(autumn_16.png);
+}
+
+
+h1 {
+    background-color: rosybrown;
+    border: 10px solid brown;
+    padding: 30px;
+    margin-left: 5px;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+
+}
+/* 
+.win {
+    border: 3px solid rgb(70, 37, 187);   
+
+
+} */

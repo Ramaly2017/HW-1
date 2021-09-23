@@ -1,0 +1,33 @@
+
+body {
+   background-color: rgb(218, 236, 169);
+    
+}
+
+
+/* body { */
+    /* padding: 5px; */
+    /* margin-left: 5px; */
+    /* margin-top: 5px; */
+    /* margin-right: 100px; */
+    /* margin-bottom: 5px; */
+  /* } */
+
+.druhy {
+    background-color: darkgoldenrod;
+    border: 5mp solid blue;
+    padding: 10mp;
+    margin: 10mp;
+
+}
+
+.slovo {
+    background-color: crimson;
+}
+
+/* .prvni { */
+    /* background-color: darkgreen; */
+  
+
+
+/* } */
