@@ -1,33 +1,24 @@
 
-body {
-   background-color: rgb(218, 236, 169);
-    
+.velky {
+   background-color: #f596e0;
+   padding-right: 2px;
+}
+
+.di {
+    margin: 14px;
 }
 
 
-/* body { */
-    /* padding: 5px; */
-    /* margin-left: 5px; */
-    /* margin-top: 5px; */
-    /* margin-right: 100px; */
-    /* margin-bottom: 5px; */
-  /* } */
-
-.druhy {
-    background-color: darkgoldenrod;
-    border: 5mp solid blue;
-    padding: 10mp;
-    margin: 10mp;
-
+li {
+    list-style-position: inside;
+    background-color: rgb(231, 75, 153);
 }
 
 .slovo {
-    background-color: crimson;
+    background-color: rgb(241, 40, 67);
 }
 
-/* .prvni { */
-    /* background-color: darkgreen; */
-  
+ol {
+    padding: 5px 5px 5px 5px;
 
-
-/* } */
+}
