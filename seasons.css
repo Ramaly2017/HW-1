@@ -1,5 +1,7 @@
-h1 {
+.bold {
+    font-weight: 800;
     color: red;
+
 }
 
 .ul1 {

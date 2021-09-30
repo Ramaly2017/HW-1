@@ -1,0 +1,21 @@
+.ol1 {
+    list-style-type: upper-roman;
+    font-weight: 600;
+
+}
+
+.ol2 {
+    list-style-type: lower-latin;
+    /* font-weight: 600; */
+
+}
+
+.bold {
+    font-weight: 600;
+}
+
+span {
+    color: royalblue;
+    font-weight: 200;
+
+}
