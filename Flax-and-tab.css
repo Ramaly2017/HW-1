@@ -1,0 +1,68 @@
+.container {
+    display: flex;
+}
+
+.container {
+    height: 100vh;
+    width: 95vw;    
+}
+
+
+.left {
+    width: 100px;   
+    margin: 10px;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+.taby {
+    height: 50px;
+    border: solid 1px rgba(230, 213, 213, 0.144);
+    text-align: center;
+    line-height: 50px;
+    background-color: darkgray;
+    color: white;
+}
+
+.taby:hover {
+    background-color: rgb(41, 35, 35);
+}
+
+
+.right {
+    width: 250px;
+    height: 90vh;    
+    margin: 10px;
+    display: 95vh;
+    background-color: rgb(41, 35, 35);
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+
+
+img {
+    
+    width: -webkit-fill-available;
+    margin: 15px;
+    display: block;
+    overflow: auto;
+        
+}
+.obdelnik {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+h1 {
+    color: white;
+    /* text-align: center; */
+    margin: 15px;
+}
+
+p {
+    margin: 15px;
+    color: white;
+
+
+
+}
