@@ -99,18 +99,18 @@ p {
 @media (min-width: 800px) {
     .container {        
         flex-direction: column;   
-        /* height: 90vh; */
+        height: 90vh;
 
     }
-    
+
     .prvni {
-        flex-basis: 100%;
-        width: 65%;
+        flex-basis: 90%;
+        width: 35%;
         margin-right: 5px;
-        
+
 
     }
-    
+
     .druhy {
         width: 20%;
         flex-grow: 0;
@@ -121,11 +121,4 @@ p {
         margin-top: 18px;
 
     }
-    .obdelnik {
-        flex-basis: 65%;
-    }
-
-
-
-
 }
