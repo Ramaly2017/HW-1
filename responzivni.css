@@ -99,13 +99,13 @@ p {
 @media (min-width: 800px) {
     .container {        
         flex-direction: column;   
-        height: 90vh;
+        /* height: 90vh; */
 
     }
     
     .prvni {
-        flex-basis: 90%;
-        width: 35%;
+        flex-basis: 100%;
+        width: 65%;
         margin-right: 5px;
         
 
@@ -120,6 +120,9 @@ p {
     .linky01 {
         margin-top: 18px;
 
+    }
+    .obdelnik {
+        flex-basis: 65%;
     }
 
 

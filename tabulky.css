@@ -1,0 +1,59 @@
+td, 
+th {
+    padding: 5px;
+    text-align: center;
+}
+table {    
+    border-collapse: collapse; 
+}
+
+th {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+span {
+    font-size: 24px;
+}
+
+.th1 {
+    background-color: rgb(187, 187, 221);
+    border-radius: 5px 0 0 0;
+}
+.th2 {
+    background-color: rgb(112, 112, 167);
+}
+.th3 {
+    background-color: rgb(75, 75, 139);
+}
+.th4 {
+    background-color: rgb(47, 47, 141);
+}
+.th5 {
+    background-color: rgb(32, 32, 97);
+    border-radius: 0 5px 0 0;
+}
+
+tr:nth-child(2n) {
+    background-color: rgba(128, 128, 128, 0.247);
+}
+
+.bot1 {
+    border-bottom-left-radius: 5px;
+}
+
+.bot2 {
+    border-bottom-right-radius: 5px;
+}
+
+td:nth-child(2n-1) {
+    background-color: rgba(128, 128, 128, 0.247);
+}
+
+div {
+    border: 1px solid black;
+    background-color: rgb(175, 174, 174);
+    margin: 5px;
+    padding: 5px;
+}
